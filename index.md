@@ -6,5 +6,8 @@
 
 ``` javascript 
 var myVar = "¡Hola mundo!"; 
-``` 
+```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [x] This item is not complete
